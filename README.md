@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel Sajdyk
-- 👀 I’m interested in learning PowerShell
+- 👀 I’m interested in PowerShell
 - 📫 You can reach me at github :email: sajdyk.pl
 
 <!---
